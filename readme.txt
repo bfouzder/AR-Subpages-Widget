@@ -1,11 +1,11 @@
 === AR Subpages Widget ===
 Contributors: bfouzder
 Tags: ar_subpages, widget, subpages, menu
-Requires at least: 3.3
+Requires at least: 3.2
 Tested up to: 5.6
 Stable tag: 2.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Lists subpages of the current parent page
 
