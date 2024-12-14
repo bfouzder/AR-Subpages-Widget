@@ -1,3 +1,6 @@
+WordPress Plugin: AR Subpages Widget
+https://wordpress.org/plugins/ar-subpages-widget/
+
 === AR Subpages Widget ===
 Contributors: bfouzder
 Tags: ar_subpages, widget, subpages, menu
@@ -13,7 +16,7 @@ Lists subpages of the current parent page
 
 This widget will dynamically list a section's subpages. When on a page, it will find the section's top level page and list its children.
 
-It can also include the current page's subpages in listing.
+It can also include the current page's subpages in the listing.
 
 You can customize the listing with the following filters:
 ar_subpages_widget_args - modifies the arguments passed to wp_list_pages
